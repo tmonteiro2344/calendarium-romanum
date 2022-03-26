@@ -44,7 +44,7 @@ pt:
       nativity_octave:
         ferial: '%{day} na Oitava do Natal'
       sunday: '%{week}º Domingo do Tempo do Natal'
-      ferial: '%{weekday} da %{week}ª semana do Tempo do Natal'
+      ferial: '%{weekday} depois da Oitava do Natal'
       after_epiphany:
         ferial: '%{weekday} depois da Epifania do Senhor'
     lent:
