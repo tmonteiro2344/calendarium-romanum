@@ -47,6 +47,7 @@ pt:
       ferial: '%{weekday} depois da Oitava do Natal'
       after_epiphany:
         ferial: '%{weekday} depois da Epifania do Senhor'
+        ferial_with_day: '%{weekday} depois da Epifania: %{day} de Janeiro'
     lent:
       after_ashes:
         ferial: '%{weekday} depois das Cinzas'
